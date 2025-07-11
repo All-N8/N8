@@ -24,7 +24,6 @@ To develop user-centered digital solutions that simplify and enrich the way even
 
 - **N8 / Neight** — A comprehensive social platform connecting event attendees and promoters, streamlining event discovery and participation.  
 - **AI Recommendation Engine** — Leveraging artificial intelligence to suggest relevant contacts and projects within user networks.  
-- **Open Source Initiatives** — Developing tools that promote accessibility and community collaboration.
 
 ---
 
